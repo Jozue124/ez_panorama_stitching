@@ -1,1 +1,0 @@
-# ez_panorama_stitching
